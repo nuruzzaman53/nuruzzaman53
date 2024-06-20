@@ -10,9 +10,9 @@ I have 3 years of experience in psd/figma to html/css and developing scalable, r
 I am a front-end developer in Upwork who can offer you a better, scalable, user-friendly, pixel perfect, responsive awesome UI website using HTML,CSS,JS,React,Bootstrap,responsive media query etc.
 
 
-I am also sharing my GitHub profile with you. here is the link: https://github.com/nuruzzaman53
+✅ I am also sharing my GitHub profile with you. here is the link: https://github.com/nuruzzaman53
 
-Please review my profile, where you will find some repository of my coding skills that might be like you.
+✅  Please review my profile, where you will find some repository of my coding skills that might be like you.
 If you choose me, you can be assured that you are getting an expert in React as well as someone who will complete your job correctly on time.
 
 Best regards , Nuruzzaman
